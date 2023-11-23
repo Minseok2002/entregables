@@ -1,4 +1,4 @@
-import "./styles/ronal.css"
+import "./styles/helder.css"
 const QuoteBox = ({ quote, handleChangeQuote }) => {
     const { phrase, author } = quote;
 

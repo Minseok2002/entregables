@@ -1,15 +1,21 @@
-.quotebox{
+.quotebox {
     max-width: 600px;
     display: grid;
     gap: 20px;
-    justify-items: center   ;
+    justify-items: center;
 }
 
-.quotebox__author{
+.quotebox__author {
     position: absolute;
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
-} 
+}
+
+
+
+.quotebox__btn {
+    border-radius: 10px;
+}
 
 
